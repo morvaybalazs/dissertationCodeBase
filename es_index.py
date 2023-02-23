@@ -25,7 +25,7 @@ while True:
     try:
         lines.append(next(d))
         i=i+1
-        if i%1001 == 0:
+        if i%100000 == 0:
             print("Lines Read: ", i)
             break
     except Exception as e:
