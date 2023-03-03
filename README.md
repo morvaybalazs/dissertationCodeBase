@@ -1,5 +1,6 @@
 # dissertationCodeBase
 ## steps to be done
+
 ### Indexining argument corpus x
 
 ### loading topics (read the xml topics task1 only titles 2021 file get topic id and topic history) load it and try to extract topic id topic history COMMENT: Not sure what is topic History Id's are extracted both for 2022 and 20221 X
