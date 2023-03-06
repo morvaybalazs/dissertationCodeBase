@@ -3,7 +3,7 @@ import numpy as np
 import argparse
 
 #/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt
-
+#/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt
 """
 Usage:
 $ python3 evaluate.py --qrel_path=touche-task2-51-100-relevance.qrels --run_path=run.txt --depth=5
@@ -114,5 +114,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     main(args.qrel_path, args.run_path, args.depth)
-
-    #/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt
