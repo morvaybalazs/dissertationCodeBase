@@ -2,15 +2,27 @@ import pandas as pd
 import numpy as np
 import argparse
 
-#/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt
+#/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Data/args21api/runfile21.txt
 #/Users/balazs/Desktop/trec_eval-9.0.7/trec_eval -q /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels /Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt
 """
 Usage:
-$ python3 evaluate.py --qrel_path=touche-task2-51-100-relevance.qrels --run_path=run.txt --depth=5
-$ python3 evaluate.py --qrel_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels --run_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/my_runfile_21.txt --depth=5
->         Tag  nDCG@5
-> 0  ChatNoir   0.422
+$ python3 evaluate.py --qrel_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/touche-task1-51-100-relevance.qrels --run_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Data/args21api/runfile21.txt --depth=5
+$ python3 evaluate.py --qrel_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Evaluation/ev_files_20/touche2020-task1-relevance-args-me-corpus-version-2020-04-01.qrels --run_path=/Users/balazs/Desktop/dissertationProjectCode/dissertationCodeBase/Data/args20api/runfile20.txt --depth=5
+
 """
+
+"""
+Ev Result for 2021
+Tag  nDCG@5
+0  40323335_Run_File_21   0.459
+"""
+
+"""
+Ev Result for 2020
+Tag  nDCG@5
+0  40323335_Run_File_20   0.323
+"""
+
 
 def load_qrels(path):
     qrels = (

@@ -1,0 +1,3 @@
+	id	conclusion	premises	stance	rank
+0	Sccb2cd3b-Ac6bee3b3	they drink anyway why not let them do it legaly	teens all over drink anyways legal or not just let them do it legaly. yuo here of parties during the weekends. on collage campus. no matter the consequense teens will still drink illegaly. so qhy not change it?	PRO	1
+1	Sccb2cd3b-Abcbebb4e	they drink anyway why not let them do it legaly	Allowing teenagers to drink at the age of 18 won’t ensure that they drink responsibly – just that they can’t be punished for it! The teenage brain is not a developed as the 21 year old brain and they will more likely hae a drinking dependency or liver damages before they can even drink legally. Thousands are admitted to university hospital each year for alcohol poisoning.	CON	2

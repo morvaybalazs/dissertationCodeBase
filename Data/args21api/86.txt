@@ -1,0 +1,6 @@
+	id	conclusion	premises	stance	rank
+0	Sede78a24-A1cdfdb40	Liberal democracies are better at providing people’s needs than non-democracies.	Democracies are more likely to be economically successful	PRO	1
+1	Sede78a24-Ab397835f	Liberal democracies are better at providing people’s needs than non-democracies.	it is development that leads to democracy	CON	2
+2	Sede78a24-A42165f6f	Liberal democracies are better at providing people’s needs than non-democracies.	Democracies are the best way to guarantee people’s fundamental human rights.	PRO	3
+3	Sede78a24-A1d8ca8d6	Liberal democracies are better at providing people’s needs than non-democracies.	Theory vs. Practice	CON	4
+4	Sede78a24-A16203ebc	Liberal democracies are better at providing people’s needs than non-democracies.	Illiberal democracy	CON	5

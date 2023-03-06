@@ -1,0 +1,9 @@
+	id	conclusion	premises	stance	rank
+0	S3ac8582e-A7c9e5d5f	the EU should engage in further enlargement	The European Union is no longer in a financial position to be taking in new members.	CON	1
+1	S3ac8582e-A683c66f5	the EU should engage in further enlargement	EU expansion is right.	PRO	2
+2	S3ac8582e-A1496c71c	the EU should engage in further enlargement	Expansion furthers EU ideals.	PRO	3
+3	S3ac8582e-A3429dccf	the EU should engage in further enlargement	There will be an even greater brain drain from poorer countries to richer.	CON	4
+4	S3ac8582e-Aaa02ac65	the EU should engage in further enlargement	EU expansion is good for current members politically.	PRO	5
+5	S3ac8582e-A6556a37c	the EU should engage in further enlargement	Expansion will create conflicts of interest between members.	CON	6
+6	S3ac8582e-Aa6b1fcad	the EU should engage in further enlargement	Expansion would be unpopular.	CON	7
+7	S3ac8582e-A7f4bb5ee	the EU should engage in further enlargement	EU expansion is good for current members economically.	PRO	8
